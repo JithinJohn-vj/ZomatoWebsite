@@ -1,0 +1,1258 @@
+
+.zom
+{
+    width: 300px;
+    height: 60px;
+}
+.section1 h1
+{
+    text-align: center;
+}
+.section1 p
+
+{
+    text-align: center;
+    font-size: 20px;
+}
+.arrow
+{
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    transform: rotate(135deg);
+    width: 10px;
+    height: 10px;
+    margin-top: -33px;
+    margin-left: 280px;
+}
+.pa p
+{
+    margin-top: -30px;
+}
+.section2 p
+{
+    font-size: 19px;
+}
+.btn1
+{
+    width: 350px;
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(218, 213, 213);
+    background-color: rgb(255, 254, 254);
+}
+.section3
+{
+    width: 100%;
+    height: 550px;
+    margin-top: 50px;
+    background-color: rgb(244, 244, 244);
+}
+
+.container h6
+{
+    color:black;
+}
+.img
+{
+    width: 25px;
+    height: 25px;
+}
+.store
+{
+    width: 140px;
+    margin-top: 10px;
+}
+
+
+@media (max-width: 320px)
+{
+    .nave{
+        display: none;
+    }
+   .section1 h5
+   {
+    font-size: 32px;
+    text-align: center;
+    margin-left: 33px;
+    width: 280px;
+
+   }
+   .section1 p
+   {
+    font-size: 13px;
+    margin-top: -20px;
+    width:350px;
+    margin-left: 4px;
+   }
+   .para
+   {
+       position: absolute;
+       color: white;
+       width: 280px;
+       font-size: 3px;
+       margin-top: -270px;
+       padding-top: 20px;
+       margin-left: 50px;
+       text-align: center;
+   }
+
+   .section2 .btn1
+   {
+    width:270px;
+    height: 60px;
+    margin-left: 35px;
+   }
+   .section2 p
+   {
+    font-size: 16px;
+    width: 220px;
+    margin-left: 0px;
+    margin-top: -5px;
+   }
+   .arrow
+   {
+    margin-left: 220px;
+    margin-top: -30px;
+   }
+   .section3
+   {
+    width: 365px;
+    height: 700px;
+    background-color: rgb(226, 222, 222);
+
+   }
+   .section3 .zomato
+{
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: -50px;
+}
+.zom{
+    width: 180px;
+    height: 50px;
+    margin-left: -20px;
+}
+
+.navb
+{
+    background-image: url(/Images/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+    width: 365px;
+    background-size: cover;
+    height: 320px;
+}
+.butn1
+{
+    margin-top: 105px;
+    margin-left: -100px;
+    width: 100px;
+    height: 40px;
+   border: 1px solid black;
+   border-radius: 4px;
+}
+.butn2
+{
+    margin-top: 105px;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}
+.line
+{
+    width: 250px;
+    border: 1px solid rgb(208, 201, 201);
+    margin-top: 10px;
+    
+}
+.india
+{
+    width: 30px;
+    height: 20px;
+}
+.ind
+{
+    width: 20px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+.globe
+{
+    width: 20px;
+    height: 20px;
+}
+.uae
+{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.but
+{
+    background-color: white;
+    border-color: transparent;
+}
+.container h6
+{
+    color:black;
+    font-size: 10px;
+}
+.container1
+{
+    font-size: 8px;
+    width: 320px;
+   margin-left: 30px;
+}
+
+.container1 .cl2
+{
+    margin-left: 170px;
+    margin-top: -183px;
+}
+.container1 .cl4
+{
+    margin-left: 170px;
+    margin-top: -63px;
+
+}
+.cl3
+{
+    margin-top: 15px;
+}
+.store
+{
+    width: 140px;
+    margin-top: -140px;
+    margin-left: 1px;
+}
+.socialimg
+{
+    margin-left: 30px;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+    margin-top: 70px;
+    margin-left: 15px;
+    align-items: center;
+}
+.foot
+{
+    font-size: 9px;
+    text-align: center;
+}
+
+}
+
+@media (min-width: 321px) and (max-width: 375px)
+ {
+    .nave{
+        display: none;
+    }
+   .section1 h5
+   {
+    font-size: 28px;
+    text-align: center;
+    margin-left: 45px;
+    width: 270px;
+
+   }
+   .section1 p
+   {
+    font-size: 13px;
+    margin-top: -20px;
+    width:310px;
+    margin-left: 25px;
+   }
+   .para
+   {
+       position: absolute;
+       color: white;
+       width: 280px;
+       font-size: 5px;
+       margin-top: -270px;
+       padding-top: 20px;
+       margin-left: 50px;
+       text-align: center;
+   }
+
+   .section2 .btn1
+   {
+    width:270px;
+    height: 60px;
+    margin-left: 35px;
+   }
+   .section2 p
+   {
+    font-size: 16px;
+    width: 220px;
+    margin-left: 0px;
+    margin-top: -5px;
+   }
+   .arrow
+   {
+    margin-left: 220px;
+    margin-top: -30px;
+   }
+   .section3
+   {
+    width: 375px;
+    height: 700px;
+    background-color: rgb(226, 222, 222);
+
+   }
+   .section3 .zomato
+{
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: -50px;
+}
+.zom{
+    width: 220px;
+    height: 40px;
+    margin-left: 20px;
+}
+
+.navb
+{
+    background-image: url(/Images/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+    width: 375px;
+    background-size: cover;
+    height: 350px;
+}
+.butn1
+{
+    margin-top: 105px;
+    margin-left: -100px;
+    width: 100px;
+    height: 40px;
+   border: 1px solid black;
+   border-radius: 4px;
+}
+.butn2
+{
+    margin-top: 105px;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}
+.line
+{
+    width: 250px;
+    border: 1px solid rgb(208, 201, 201);
+    margin-top: 10px;
+    
+}
+.india
+{
+    width: 30px;
+    height: 20px;
+}
+.ind
+{
+    width: 20px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+.globe
+{
+    width: 20px;
+    height: 20px;
+}
+.uae
+{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.but
+{
+    background-color: white;
+    border-color: transparent;
+}
+.container h6
+{
+    color:black;
+    font-size: 10px;
+}
+.container1
+{
+    font-size: 10px;
+    width: 320px;
+   margin-left: 20px;
+}
+
+.container1 .cl2
+{
+    margin-left: 210px;
+    margin-top: -220px;
+}
+.container1 .cl4
+{
+    margin-left: 210px;
+    margin-top: -73px;
+
+}
+.cl3
+{
+    margin-top: 15px;
+}
+.store
+{
+    width: 140px;
+    margin-top: -140px;
+    margin-left: 15px;
+}
+.socialimg
+{
+    margin-left: 30px;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+    margin-top: 70px;
+    margin-left: 25px;
+    align-items: center;
+}
+.foot
+{
+    font-size: 9px;
+    text-align: center;
+}
+
+    
+}
+
+@media (min-width: 376px) and (max-width: 425px)
+ {
+    .nave{
+        display: none;
+    }
+   .section1 h5
+   {
+    font-size: 37px;
+    text-align: center;
+    margin-left: 70px;
+    width:340px;
+
+   }
+   .section1 p
+   {
+    font-size: 15px;
+    margin-top: -20px;
+    width:410px;
+    margin-left: 30px;
+   }
+   .para
+   {
+       position: absolute;
+       color: white;
+       width: 380px;
+       font-size: 10px;
+       margin-top: -270px;
+       padding-top: 20px;
+       margin-left: 50px;
+       text-align: center;
+   }
+
+   .section2 .btn1
+   {
+    width:380px;
+    height: 60px;
+    margin-left: 30px;
+   }
+   .section2 p
+   {
+    font-size: 16px;
+    width: 220px;
+    margin-left: 0px;
+    margin-top: -5px;
+   }
+   .arrow
+   {
+    margin-left: 330px;
+    margin-top: -30px;
+   }
+   .section3
+   {
+    width: 470px;
+    height: 780px;
+    background-color: rgb(226, 222, 222);
+
+   }
+   .section3 .zomato
+{
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: -50px;
+}
+.zom{
+    width: 180px;
+    height: 50px;
+    margin-left: -20px;
+}
+
+.navb
+{
+    background-image: url(/Images/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+    width: 470px;
+    background-size: cover;
+    height: 350px;
+}
+.butn1
+{
+    margin-top: 105px;
+    margin-left: -100px;
+    width: 100px;
+    height: 40px;
+   border: 1px solid black;
+   border-radius: 4px;
+}
+.butn2
+{
+    margin-top: 105px;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}
+.line
+{
+    width: 420px;
+    border: 1px solid rgb(208, 201, 201);
+    margin-top: 10px;
+    
+}
+.india
+{
+    width: 30px;
+    height: 20px;
+}
+.ind
+{
+    width: 20px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+.globe
+{
+    width: 20px;
+    height: 20px;
+}
+.uae
+{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.but
+{
+    background-color: white;
+    border-color: transparent;
+}
+.container h6
+{
+    color:black;
+    font-size: 12px;
+}
+.container1
+{
+    font-size: 13px;
+    width: 425px;
+   margin-left: 30px;
+}
+
+.container1 .cl2
+{
+    margin-left: 250px;
+    margin-top: -280px;
+}
+.container1 .cl4
+{
+    margin-left: 250px;
+    margin-top: -86px;
+
+}
+.cl3
+{
+    margin-top: 15px;
+}
+.store
+{
+    width: 140px;
+    margin-top: -140px;
+    margin-left: 42px;
+}
+.socialimg
+{
+    margin-left: 80px;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+    margin-top: 70px;
+    margin-left: 20px;
+    align-items: center;
+}
+.foot
+{
+    font-size: 9px;
+    text-align: center;
+}
+
+    
+}
+@media (min-width: 426px) and (max-width: 768px)
+ {
+    .nave{
+        display: none;
+    }
+   .section1 h5
+   {
+    font-size: 45px;
+    text-align: center;
+    margin-left: 230px;
+    width:340px;
+
+   }
+   .section1 p
+   {
+    font-size: 22px;
+    margin-top: -20px;
+    margin-left: 30px;
+    width:700px;
+   }
+   .para
+   {
+       position: absolute;
+       color: white;
+       font-size: 10px;
+       margin-top: -320px;
+       margin-left: 300px;
+       text-align: center;
+   }
+
+   .section2 .btn1
+   {
+    width:200px;
+    height: 60px;
+    margin-left: 10px;
+   }
+   .section2 p
+   {
+    font-size: 15px;
+    width: 260px;
+    margin-left: -40px;
+    margin-top: -5px;
+   }
+   .arrow
+   {
+    margin-left: 170px;
+    margin-top: -30px;
+   }
+   .section3
+   {
+    width: 768px;
+    height: 420px;
+    background-color: rgb(226, 222, 222);
+
+   }
+   .section3 .zomato
+{
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.zom{
+    width: 180px;
+    height: 50px;
+    margin-left: -20px;
+}
+
+.navb
+{
+    background-image: url(/Images/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+    width: 768px;
+    background-size: cover;
+    height: 450px;
+}
+.butn1
+{
+    margin-top: 13px;
+    margin-left: 400px;
+    width: 100px;
+    height: 40px;
+   border: 1px solid black;
+   border-radius: 4px;
+}
+.butn2
+{
+    margin-top: -55px;
+    margin-left: 650px;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}
+.line
+{
+    width: 620px;
+    border: 1px solid rgb(208, 201, 201);
+    margin-top: 10px;
+    
+}
+.india
+{
+    width: 30px;
+    height: 20px;
+}
+.ind
+{
+    width: 20px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+.globe
+{
+    width: 20px;
+    height: 20px;
+}
+.uae
+{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.but
+{
+    background-color: white;
+    border-color: transparent;
+}
+.container1 h6
+{
+    color:black;
+    font-size: 11px;
+}
+.container1
+{
+    font-size: 10px;
+    width: 700px;
+   margin-left: 30px;
+}
+.store
+{
+    width: 140px;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+}
+.foot
+{
+    font-size: 9px;
+    text-align: center;
+}
+
+    
+}
+@media (min-width: 769px) and (max-width: 1024px)
+ {
+
+    .nave 
+    {
+        display: flex;
+        justify-content: space-around;
+    }
+    .nave a
+    {
+        color: white;
+        text-decoration: none;
+    }
+    .nave-list {
+        list-style: none;
+        margin-left: 600px;
+    }
+   .section1 h5
+   {
+    font-size: 35px;
+    text-align: center;
+    margin-left: 280px;
+    width:550px;
+
+   }
+   .section1 p
+   {
+    font-size: 20px;
+    margin-top: -20px;
+    margin-left: 45px;
+    width:900px;
+   }
+   .para
+   {
+       position: absolute;
+       color: white;
+       font-size: 16px;
+       margin-top: -480px;
+       margin-left: 400px;
+       text-align: center;
+   }
+
+   .section2 .btn1
+   {
+    width:250px;
+    height: 60px;
+    margin-left: 30px;
+   }
+   .section2 p
+   {
+    font-size: 15px;
+    width: 260px;
+    margin-left: -40px;
+    margin-top: -5px;
+   }
+   .arrow
+   {
+    margin-left: 190px;
+    margin-top: -30px;
+   }
+   .section3
+   {
+    width: 1024px;
+    height: 450px;
+    background-color: rgb(226, 222, 222);
+
+   }
+   .section3 .zomato
+{
+    width: 180px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.zom{
+    width: 300px;
+    height: 70px;
+    margin-left: -20px;
+}
+
+.navb
+{
+    background-image: url(/Images/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+    width: 1024px;
+    background-size: cover;
+    height: 650px;
+}
+.butn1
+{
+    margin-top: -60px;
+    margin-left: 750px;
+    width: 100px;
+    height: 40px;
+   border: 1px solid black;
+   border-radius: 4px;
+}
+.butn2
+{
+    margin-top: -83px;
+    margin-left:900px;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}
+.line
+{
+    width: 900px;
+    border: 1px solid rgb(208, 201, 201);
+    margin-top: 10px;
+    
+}
+.india
+{
+    width: 30px;
+    height: 20px;
+}
+.ind
+{
+    width: 20px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+.globe
+{
+    width: 20px;
+    height: 20px;
+}
+.uae
+{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.but
+{
+    background-color: white;
+    border-color: transparent;
+}
+.container1 h6
+{
+    color:black;
+    font-size: 17px;
+}
+.container1
+{
+    font-size: 14px;
+    width: 1000px;
+   margin-left: 6px;
+}
+.store
+{
+    width: 140px;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+}
+.foot
+{
+    font-size: 13px;
+    text-align: center;
+}  
+}
+@media (min-width: 1025px) and (max-width: 1440px)
+ {
+
+    .nave 
+    {
+        display: flex;
+        justify-content: space-around;
+    }
+    .nave a
+    {
+        color: white;
+        text-decoration: none;
+    }
+    .nave-list {
+        list-style: none;
+        margin-left: 600px;
+    }
+   .section1 h5
+   {
+    font-size: 55px;
+    text-align: center;
+    margin-left: 530px;
+    width:470px;
+
+   }
+   .section1 p
+   {
+    font-size: 24px;
+    margin-top: -20px;
+    margin-left: 130px;
+    width:1200px;
+   }
+   .para
+   {
+       position: absolute;
+       color: white;
+       font-size: 16px;
+       margin-top: -480px;
+       margin-left: 400px;
+       text-align: center;
+   }
+
+   .section2 .btn1
+   {
+    width:250px;
+    height: 60px;
+    margin-left: 30px;
+   }
+   .section2 p
+   {
+    font-size: 15px;
+    width: 260px;
+    margin-left: -40px;
+    margin-top: -5px;
+   }
+   .arrow
+   {
+    margin-left: 190px;
+    margin-top: -30px;
+   }
+   .section3
+   {
+    width: 1440px;
+    height: 430px;
+    background-color: rgb(226, 222, 222);
+
+   }
+   .section3 .zomato
+{
+    width: 180px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.zom{
+    width: 300px;
+    height: 70px;
+    margin-left: 100px;
+}
+
+.navb
+{
+    background-image: url(/Images/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+    width: 1440px;
+    background-size: cover;
+    height: 650px;
+}
+.butn1
+{
+    margin-top: 0px;
+    margin-left: 500px;
+    width: 100px;
+    height: 40px;
+   border: 1px solid black;
+   border-radius: 4px;
+}
+.butn2
+{
+    margin-top: -63px;
+    margin-left:1050px;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}
+.line
+{
+    width: 900px;
+    border: 1px solid rgb(208, 201, 201);
+    margin-top: 10px;
+    
+}
+.india
+{
+    width: 30px;
+    height: 20px;
+}
+.ind
+{
+    width: 20px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+.globe
+{
+    width: 20px;
+    height: 20px;
+}
+.uae
+{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.but
+{
+    background-color: white;
+    border-color: transparent;
+}
+.container1 h6
+{
+    color:black;
+    font-size: 17px;
+}
+.container1
+{
+    font-size: 14px;
+    width: 1000px;
+   margin-left: 200px;
+}
+.store
+{
+    width: 140px;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+}
+.foot
+{
+    font-size: 13px;
+    text-align: center;
+}
+
+}
+@media (min-width: 1441px) and (max-width: 2560px)
+ {
+
+    .nave 
+    {
+        display: flex;
+        justify-content: space-around;
+    }
+    .nave a
+    {
+        color: white;
+        text-decoration: none;
+    }
+    .nave-list {
+        list-style: none;
+        margin-left: 1200px;
+        font-size: 28px;
+    }
+   .section1 h5
+   {
+    font-size: 85px;
+    text-align: center;
+    margin-left: 890px;
+    width:720px;
+
+   }
+   .section1 p
+   {
+    font-size: 28px;
+    margin-top: -20px;
+    margin-left: 630px;
+    width:1200px;
+   }
+   .para
+   {
+       position: absolute;
+       color: white;
+       font-size: 19px;
+       margin-top: -580px;
+       margin-left: 1000px;
+       text-align: center;
+   }
+
+   .section2 .btn1
+   {
+    width:320px;
+    height: 60px;
+    margin-left: -30px;
+   }
+   .section2 p
+   {
+    font-size: 15px;
+    width: 260px;
+    margin-left: -40px;
+    margin-top: -5px;
+   }
+   .arrow
+   {
+    margin-left: 250px;
+    margin-top: -30px;
+   }
+   .section3
+   {
+    width: 2560px;
+    height: 530px;
+    background-color: rgb(226, 222, 222);
+
+   }
+   .section3 .zomato
+{
+    width: 180px;
+    height: 50px;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+.zom{
+    width: 500px;
+    height: 110px;
+    margin-left: 100px;
+}
+
+.navb
+{
+    background-image: url(/Images/81f3ff974d82520780078ba1cfbd453a1583259680.avif);
+    width: 2560px;
+    background-size: cover;
+    height: 850px;
+}
+.butn1
+{
+    margin-top: 0px;
+    margin-left: 500px;
+    width: 100px;
+    height: 40px;
+   border: 1px solid black;
+   border-radius: 4px;
+}
+.butn2
+{
+    margin-top: 0px;
+    margin-left:100px;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}
+.line
+{
+    width: 900px;
+    border: 1px solid rgb(208, 201, 201);
+    margin-top: 10px;
+    
+}
+.india
+{
+    width: 30px;
+    height: 20px;
+}
+.ind
+{
+    width: 20px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: -5px;
+}
+.globe
+{
+    width: 20px;
+    height: 20px;
+}
+.uae
+{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.but
+{
+    background-color: white;
+    border-color: transparent;
+}
+.container1 h6
+{
+    color:black;
+    font-size: 17px;
+}
+.container1
+{
+    font-size: 16px;
+    width: 1000px;
+   margin-left: 700px;
+}
+.store
+{
+    width: 140px;
+}
+.img
+{
+    width: 20px;
+    height: 20px;
+}
+.foot
+{
+    font-size: 13px;
+    text-align: center;
+}
+
+    
+}
